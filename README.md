@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kishore170820/leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kishore170820/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/kishore170820/leetcode-problems/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/kishore170820/leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kishore170820/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kishore170820/leetcode-problems/tree/master/0189-rotate-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kishore170820/leetcode-problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/kishore170820/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kishore170820/leetcode-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/kishore170820/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
