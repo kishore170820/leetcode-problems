@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/kishore170820/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/kishore170820/leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1585-the-kth-factor-of-n](https://github.com/kishore170820/leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/kishore170820/leetcode-problems/tree/master/0948-sort-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/kishore170820/leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
