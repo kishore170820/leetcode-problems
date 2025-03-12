@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kishore170820/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kishore170820/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/kishore170820/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/kishore170820/leetcode-problems/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/kishore170820/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Hash Table
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kishore170820/leetcode-problems/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/kishore170820/leetcode-problems/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
