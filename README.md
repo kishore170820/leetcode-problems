@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kishore170820/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kishore170820/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kishore170820/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kishore170820/leetcode-problems/tree/master/0013-roman-to-integer) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kishore170820/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/kishore170820/leetcode-problems/tree/master/0050-powx-n) |
 | [0233-number-of-digit-one](https://github.com/kishore170820/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/kishore170820/leetcode-problems/tree/master/1013-fibonacci-number) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kishore170820/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kishore170820/leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0147-insertion-sort-list](https://github.com/kishore170820/leetcode-problems/tree/master/0147-insertion-sort-list) |
 ## Sliding Window
