@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kishore170820/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/kishore170820/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/kishore170820/leetcode-problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/kishore170820/leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kishore170820/leetcode-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kishore170820/leetcode-problems/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/kishore170820/leetcode-problems/tree/master/0233-number-of-digit-one) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kishore170820/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kishore170820/leetcode-problems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kishore170820/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## String
@@ -80,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishore170820/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kishore170820/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/kishore170820/leetcode-problems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/kishore170820/leetcode-problems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/kishore170820/leetcode-problems/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/kishore170820/leetcode-problems/tree/master/0541-reverse-string-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kishore170820/leetcode-problems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/kishore170820/leetcode-problems/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
