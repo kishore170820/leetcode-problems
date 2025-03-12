@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kishore170820/leetcode-problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kishore170820/leetcode-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kishore170820/leetcode-problems/tree/master/0189-rotate-array) |
+| [0233-number-of-digit-one](https://github.com/kishore170820/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/kishore170820/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Hash Table
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/kishore170820/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/kishore170820/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kishore170820/leetcode-problems/tree/master/0050-powx-n) |
+| [0233-number-of-digit-one](https://github.com/kishore170820/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/kishore170820/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
