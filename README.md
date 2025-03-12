@@ -21,8 +21,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kishore170820/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kishore170820/leetcode-problems/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/kishore170820/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kishore170820/leetcode-problems/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/kishore170820/leetcode-problems/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/kishore170820/leetcode-problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/kishore170820/leetcode-problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
