@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kishore170820/leetcode-problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kishore170820/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kishore170820/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/kishore170820/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/kishore170820/leetcode-problems/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/kishore170820/leetcode-problems/tree/master/0541-reverse-string-ii) |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kishore170820/leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kishore170820/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
