@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kishore170820/leetcode-problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/kishore170820/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kishore170820/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/kishore170820/leetcode-problems/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/kishore170820/leetcode-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/kishore170820/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kishore170820/leetcode-problems/tree/master/0344-reverse-string) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kishore170820/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kishore170820/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/kishore170820/leetcode-problems/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/kishore170820/leetcode-problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/kishore170820/leetcode-problems/tree/master/0948-sort-an-array) |
 ## Math
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kishore170820/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kishore170820/leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0147-insertion-sort-list](https://github.com/kishore170820/leetcode-problems/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/kishore170820/leetcode-problems/tree/master/0148-sort-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kishore170820/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/kishore170820/leetcode-problems/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/kishore170820/leetcode-problems/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kishore170820/leetcode-problems/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/kishore170820/leetcode-problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
