@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kishore170820/leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kishore170820/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/kishore170820/leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kishore170820/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kishore170820/leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kishore170820/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/kishore170820/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/kishore170820/leetcode-problems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/kishore170820/leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kishore170820/leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kishore170820/leetcode-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kishore170820/leetcode-problems/tree/master/0189-rotate-array) |
