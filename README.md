@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/kishore170820/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kishore170820/leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kishore170820/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/kishore170820/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/kishore170820/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/kishore170820/leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
+| [3227-find-missing-and-repeated-values](https://github.com/kishore170820/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kishore170820/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kishore170820/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/kishore170820/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kishore170820/leetcode-problems/tree/master/0048-rotate-image) |
+| [3227-find-missing-and-repeated-values](https://github.com/kishore170820/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
