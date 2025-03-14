@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kishore170820/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0948-sort-an-array](https://github.com/kishore170820/leetcode-problems/tree/master/0948-sort-an-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/kishore170820/leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kishore170820/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kishore170820/leetcode-problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kishore170820/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/kishore170820/leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kishore170820/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
