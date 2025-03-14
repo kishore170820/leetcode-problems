@@ -205,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/kishore170820/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kishore170820/leetcode-problems/tree/master/0090-subsets-ii) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/kishore170820/leetcode-problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
