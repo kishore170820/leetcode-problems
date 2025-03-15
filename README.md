@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kishore170820/leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kishore170820/leetcode-problems/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/kishore170820/leetcode-problems/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/kishore170820/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kishore170820/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0948-sort-an-array](https://github.com/kishore170820/leetcode-problems/tree/master/0948-sort-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kishore170820/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/kishore170820/leetcode-problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/kishore170820/leetcode-problems/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/kishore170820/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/kishore170820/leetcode-problems/tree/master/0948-sort-an-array) |
 ## Math
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kishore170820/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kishore170820/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/kishore170820/leetcode-problems/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/kishore170820/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore170820/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
