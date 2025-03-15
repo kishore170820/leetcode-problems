@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kishore170820/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kishore170820/leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kishore170820/leetcode-problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/kishore170820/leetcode-problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kishore170820/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/kishore170820/leetcode-problems/tree/master/1013-fibonacci-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kishore170820/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kishore170820/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/kishore170820/leetcode-problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/kishore170820/leetcode-problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kishore170820/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/kishore170820/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kishore170820/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kishore170820/leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kishore170820/leetcode-problems/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/kishore170820/leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kishore170820/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## String
