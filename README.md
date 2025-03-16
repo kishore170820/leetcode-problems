@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kishore170820/leetcode-problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kishore170820/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/kishore170820/leetcode-problems/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/kishore170820/leetcode-problems/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/kishore170820/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/kishore170820/leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore170820/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -152,12 +153,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kishore170820/leetcode-problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kishore170820/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kishore170820/leetcode-problems/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/kishore170820/leetcode-problems/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/kishore170820/leetcode-problems/tree/master/0541-reverse-string-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kishore170820/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kishore170820/leetcode-problems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/kishore170820/leetcode-problems/tree/master/0415-add-strings) |
 ## Linked List
 |  |
 | ------- |
