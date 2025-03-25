@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kishore170820/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/kishore170820/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kishore170820/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/kishore170820/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/kishore170820/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kishore170820/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kishore170820/leetcode-problems/tree/master/0067-add-binary) |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/kishore170820/leetcode-problems/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/kishore170820/leetcode-problems/tree/master/0182-duplicate-emails) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kishore170820/leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
